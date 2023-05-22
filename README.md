@@ -1,1 +1,5 @@
 # Physical-Database-Design-and-Tuning
+
+## Project Phase 2 of ITCS 413 Database Design
+
+#### This project provides an opportunity to gain practical experience in implementing a logical data model for a target database management system (DBMS), loading data into the database, analyzing query performance, and tuning the database. The project involves teams completing several tasks, including loading a large amount of data into the working database, analyzing specified queries and transactions based on user requirements, selecting appropriate file organization and indexes to enhance database access efficiency, designing user views, and potentially implementing triggers and assertions. Additionally, the objective of the project is to test the database application and consider denormalizing the relational schema to optimize database access performance. The project aims to provide hands-on skills in various aspects of database management, including data modeling, loading, query analysis, performance optimization, and application testing.
